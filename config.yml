@@ -1,0 +1,5 @@
+server:
+  port: 8000
+  max_workers: 10
+service:
+  host: esbr-dev.brique.kr
